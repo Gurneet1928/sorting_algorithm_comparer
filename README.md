@@ -2,7 +2,7 @@
 ___
 ### Lets compare some sorting algorithms, shall we ?
 
-[![N|Solid](https://www.python.org/static/community_logos/python-powered-w-200x80.png)](https://www.python.org/)
+[![N|Solid](https://www.python.org/static/img/psf-logo@2x.png)](https://www.python.org/)
 
 A simple, python GUI based program, to compare some of the highly common sorting algorithms, on how much time they take to sort a given data
 ___
