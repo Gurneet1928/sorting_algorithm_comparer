@@ -1,11 +1,6 @@
-from calendar import c, day_abbr
 import datetime as dt
-from msilib import text
-from pickle import TRUE
 import tkinter as tk
 from tkinter import ANCHOR, BOTH, CENTER, GROOVE, RAISED, RIDGE, ttk
-from tkinter import scrolledtext
-from turtle import bgcolor, width
 import numpy as np
 import sys
 import sort_tech as st
@@ -50,7 +45,7 @@ complexities = {1:"O(n*n)",
 5:"O(nlogn)",
 6:"O(n+2^k)",
 7:"O(n*n)",
-8:"O(n(logn)^2 [Variable])",
+8:"O(n(logn)^2) [Variable]",
 9:"O(n*n)",
 10:"O(n*n)"
 }
