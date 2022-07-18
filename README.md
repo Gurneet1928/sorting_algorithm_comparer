@@ -19,6 +19,14 @@ ___
 - An unsed file - "loading_screen_with_cars.py" -  which makes a loading up animation type with only keyboard characters.
 - A small About-Me kind of page for small informatiion. Do read to know more and support :)
 ___
+## Screenshots and Samples :
+
+<img src="sample_shots/demo_clip.gif" width="800" /></img>
+<img src="sample_shots/main_menu.png" width="400" /></img>
+<img src="sample_shots/about_page.png" width="400" /></img>
+<img src="sample_shots/exit_page.png" width="400" /></img>
+
+___
 ## Algorithms Included :
 - Selection Sort
 - Bubble Sort
