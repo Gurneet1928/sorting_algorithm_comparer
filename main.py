@@ -241,7 +241,7 @@ Github : @Gurneet222
 A simple program made to compare some of the most common algorithms
 
 Github Link to Program ::
-_link_to_program_
+https://github.com/Gurneet1928/sorting_algorithm_comparer
 
 To use the program, follow the following steps :: 
 1. Enter the data to be sorted in the text box in MAIN MENU
